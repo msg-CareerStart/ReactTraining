@@ -15,9 +15,9 @@
 - Day 3
   - [6. MaterialUI and JSS](#6-materialui-and-jss)
   - [7. Routing](#7-routing)
-- Day 4
+- Days 4 & 5
   - [8. Fetch API](#8-fetch-api)
-- Day 5
+- Days 6 & 7
   - [9. Basic Redux](#9-basic-redux)
   - [10. Redux Saga](#10-redux-saga)
 
@@ -60,8 +60,6 @@ The online shop has a **shopping cart** functionality:
 **Mockups** describing the user interface structure can be found in the [mockups](./mockups/mockups.pdf) folder.
 These **mockups should be used as a guideline**, but improvements or deviations from them is allowed.
 **We support custom styling** in order to make the application your own.
-
-# Day 1
 
 ## 1. HTML, CSS and GIT Basics
 
