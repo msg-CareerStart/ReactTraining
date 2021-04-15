@@ -16,7 +16,7 @@
   - [6. MaterialUI and JSS](#6-materialui-and-jss)
   - [7. Routing](#7-routing)
 - Days 4 & 5
-  - [8. Fetch API](#8-fetch-api)
+  - [8. Axios](#8-axios)
 - Days 6 & 7
   - [9. Basic Redux](#9-basic-redux)
   - [10. Redux Saga](#10-redux-saga)
@@ -222,29 +222,24 @@ _Further Resources_:
 
 - [React Router: Redirects](https://reacttraining.com/react-router/web/example/auth-workflow)
 
-## 8. Fetch API
+## 8. Axios
 
-**Goal**: communicate with your backend application using the Fetch API.
+**Goal**: communicate with your backend application using axios.
 
 **Required Reading**:
 
 - [React: State and Lifecycle](https://reactjs.org/docs/state-and-lifecycle.html)
-- [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
-- [How to fetch data in React](https://www.robinwieruch.de/react-fetching-data)
+- [How to make HTTP requests with axios](https://blog.logrocket.com/how-to-make-http-requests-like-a-pro-with-axios/)
 
 **Online Shop**:
 
-> Use the Fetch API to read the products from the backend to fill in the product list.
+> Use axios to read the products from the backend to fill in the product list.
 >
 > When navigating to the product detail page, read the product information from the backend.
 >
 > Add a new "Delete" button on the detail page, which calls the backend to remove a product from the catalogue.
 >
 > Add a new "Checkout" button on the shopping cart page, which creates a new order on the backend.
-
-_Further Resources_:
-
-- [React Component Reference](https://reactjs.org/docs/react-component.html)
 
 ## 9. Basic Redux
 
