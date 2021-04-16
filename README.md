@@ -191,8 +191,6 @@ _Further Resources_:
 
 _Further Resources_:
 
-- [Theming Bulma](https://bulma.io/documentation/customize/with-node-sass/)
-- [Bulma Documentation](https://bulma.io/documentation/)
 - [SCSS Basics](https://medium.com/web-development-articles/scss-basics-279ce9c0acb8)
 
 ## 7. Routing
@@ -277,7 +275,7 @@ _Further Resources_:
 
 ## 10. Redux Saga
 
-**Goal: trigger the Fetch API calls using actions**
+**Goal: trigger the axios calls using actions**
 
 **Required Reading**:
 
@@ -287,7 +285,7 @@ _Further Resources_:
 
 **Online Shop**:
 
-> Move all the fetch API calls into dedicated Sagas.
+> Move all the axios calls into dedicated Sagas.
 
 _Further Resources_:
 
